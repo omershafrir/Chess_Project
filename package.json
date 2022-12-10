@@ -1,24 +1,23 @@
 {
-  "name": "chess",
+  "name": "chess_project",
   "version": "1.0.0",
   "description": "TIPS & TRICKS",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omershafrir/Chess.git"
+    "url": "git+https://github.com/omershafrir/Chess_Project.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/omershafrir/Chess/issues"
+    "url": "https://github.com/omershafrir/Chess_Project/issues"
   },
-  "homepage": "https://github.com/omershafrir/Chess#readme",
+  "homepage": "https://github.com/omershafrir/Chess_Project#readme",
   "dependencies": {
-    "express": "^4.18.2",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.20"
   }
 }
